@@ -1,0 +1,192 @@
+,state,country,cases,
+213,"Kitsap, WA",US,2,53035
+214,"Solano, CA",US,3,06095
+215,"Santa Cruz, CA",US,2,06087
+216,"Napa, CA",US,1,06055
+217,"Ventura, CA",US,1,06111
+218,"Worcester, MA",US,1,25027
+219,"Gwinnett, GA",US,2,13135
+220,"DeKalb, GA",US,2,18033
+221,"Floyd, GA",US,1,13115
+222,"Fayette, GA",US,1,13113
+223,"Gregg, TX",US,1,48183
+224,"Monmouth, NJ",US,4,34025
+225,"Burlington, NJ",US,2,34005
+226,"Camden, NJ",US,1,34007
+227,"Passaic, NJ",US,1,34031
+228,"Union, NJ",US,1,34039
+229,"Eagle, CO",US,4,08037
+230,"Larimer, CO",US,1,08069
+231,"Arapahoe, CO",US,3,08005
+232,"Gunnison, CO",US,5,08051
+233,"Kane, IL",US,1,17089
+234,"Monroe, PA",US,2,42089
+235,"Philadelphia, PA",US,1,42101
+236,"Norfolk, VA",US,2,51710
+237,"Arlington, VA",US,1,51013
+238,"Spotsylvania, VA",US,1,51177
+239,"Loudoun, VA",US,1,51107
+240,"Prince George's, MD",US,3,24033
+241,"Pottawattamie, IA",US,1,19155
+242,"Camden, NC",US,4,45055
+243,"Pima, AZ",US,1,04019
+244,"Noble, IN",US,1,18113
+245,"Adams, IN",US,1,18001
+246,"Boone, IN",US,1,18011
+247,"Dane, WI",US,2,55025
+248,"Pierce, WI",US,2,55093
+249,"Cuyahoga, OH",US,3,39035
+250,"Weber, UT",US,1,49057
+251,"Bennington County, VT",US,1,50003
+252,"Carver County, MN",US,1,27019
+253,"Charlotte County, FL",US,1,12015
+254,"Cherokee County, GA",US,1,13057
+255,"Collin County, TX",US,3,48085
+256,"Jefferson County, KY",US,1,21111
+257,"Jefferson Parish, LA",US,1,22051
+258,"Shasta County, CA",US,1,06089
+259,"Spartanburg County, SC",US,1,45083
+260,"Harrison County, KY",US,5,21097
+261,"Johnson County, IA",US,12,20091
+262,"Berkshire County, MA",US,7,25003
+263,"Davidson County, TN",US,2,47037
+264,"Douglas County, OR",US,1,41019
+265,"Fresno County, CA",US,2,06019
+266,"Harford County, MD",US,1,24025
+267,"Hendricks County, IN",US,2,18063
+268,"Hudson County, NJ",US,1,34017
+269,"Johnson County, KS",US,1,20091
+270,"Kittitas County, WA",US,1,53037
+271,"Manatee County, FL",US,2,12081
+272,"Marion County, OR",US,2,18097
+273,"Okaloosa County, FL",US,1,12091
+274,"Polk County, GA",US,1,13233
+275,"Riverside County, CA",US,6,06065
+276,"Shelby County, TN",US,1,47157
+277,"St. Louis County, MO",US,1,29189
+278,"Suffolk County, NY",US,6,36103
+279,"Ulster County, NY",US,2,36111
+280,"Volusia County, FL",US,2,12127
+281,"Fairfax County, VA",US,3,51059
+282,"Rockingham County, NH",US,2,33015
+283,"Washington, D.C.",US,4,11001
+284,"Montgomery County, PA",US,9,42091
+285,"Alameda County, CA",US,5,06001
+286,"Broward County, FL",US,4,12011
+287,"Lee County, FL",US,2,12071
+288,"Pinal County, AZ",US,5,04021
+289,"Rockland County, NY",US,6,36087
+290,"Saratoga County, NY",US,2,36091
+291,"Charleston County, SC",US,1,45019
+292,"Clark County, WA",US,1,53011
+293,"Cobb County, GA",US,7,13067
+294,"Davis County, UT",US,1,49011
+295,"El Paso County, CO",US,1,48141
+296,"Honolulu County, HI",US,2,15003
+297,"Jackson County, OR ",US,2,41029
+298,"Jefferson County, WA",US,1,53031
+299,"Kershaw County, SC",US,3,45055
+300,"Klamath County, OR",US,1,41035
+301,"Madera County, CA",US,1,06039
+302,"Pierce County, WA",US,14,53053
+303,"Tulsa County, OK",US,2,40143
+304,"Douglas County, CO",US,3,08035
+305,"Providence County, RI",US,5,44007
+306,"Chatham County, NC",US,1,37037
+307,"Delaware County, PA",US,1,42045
+308,"Douglas County, NE",US,4,31055
+309,"Fayette County, KY",US,2,21067
+310,"Marion County, IN",US,1,18097
+311,"Middlesex County, MA",US,41,25017
+312,"Nassau County, NY",US,28,36059
+313,"Ramsey County, MN",US,2,27123
+314,"Washoe County, NV",US,2,32031
+315,"Wayne County, PA",US,1,42127
+316,"Yolo County, CA",US,1,06113
+317,"Santa Clara County, CA",US,48,06085
+318,"Clark County, NV",US,5,32003
+319,"Fort Bend County, TX",US,6,48157
+320,"Grant County, WA",US,1,53025
+321,"Santa Rosa County, FL",US,1,12113
+322,"Williamson County, TN",US,5,47187
+323,"New York County, NY",US,55,36061
+324,"Montgomery County, MD",US,5,24031
+325,"Suffolk County, MA",US,20,25025
+326,"Denver County, CO",US,6,08031
+327,"Summit County, CO",US,1,08117
+328,"Bergen County, NJ",US,11,34003
+329,"Harris County, TX",US,7,48201
+330,"San Francisco County, CA",US,14,06075
+331,"Contra Costa County, CA",US,10,06013
+332,"Orange County, CA",US,5,06059
+333,"Norfolk County, MA",US,22,25021
+334,"Maricopa County, AZ",US,3,04013
+335,"Wake County, NC",US,6,37183
+336,"Westchester County, NY",US,121,36119
+337,"Grafton County, NH",US,3,33009
+338,"Hillsborough, FL",US,3,12057
+339,"Placer County, CA",US,7,06061
+340,"San Mateo, CA",US,15,06081
+341,"Sonoma County, CA",US,3,06097
+342,"Umatilla, OR",US,2,41059
+343,"Fulton County, GA",US,7,17057
+344,"Washington County, OR",US,8,41067
+345,"Snohomish County, WA",US,68,53061
+346,"Humboldt County, CA",US,1,06023
+347,"Sacramento County, CA",US,11,06067
+348,"San Diego County, CA",US,3,06073
+349,"San Benito, CA",US,2,06069
+350,"Los Angeles, CA",US,27,06037
+351,"King County, WA",US,190,53033
+352,"Cook County, IL",US,22,17031
+353,"Skagit, WA",US,1,53057
+354,"Thurston, WA",US,1,53067
+355,"Island, WA",US,1,53029
+356,"Whatcom, WA",US,1,53073
+357,"Marin, CA",US,1,06041
+358,"Calaveras, CA",US,2,06009
+359,"Stanislaus, CA",US,2,06099
+360,"San Joaquin, CA",US,1,06077
+361,"Essex, MA",US,1,25009
+362,"Charlton, GA",US,1,13049
+363,"Collier, FL",US,3,12021
+364,"Pinellas, FL",US,2,12103
+365,"Alachua, FL",US,1,12001
+366,"Nassau, FL",US,1,12089
+367,"Pasco, FL",US,1,12101
+368,"Dallas, TX",US,2,48113
+369,"Tarrant, TX",US,1,48439
+370,"Montgomery, TX",US,1,48339
+371,"Middlesex, NJ",US,2,34023
+372,"Jefferson, CO",US,3,08059
+373,"Multnomah, OR",US,1,41051
+374,"Polk, OR",US,1,41053
+375,"Deschutes, OR",US,1,41017
+376,"McHenry, IL",US,1,17111
+377,"Lake, IL",US,1,17097
+378,"Bucks, PA",US,1,42017
+379,"Hanover, VA",US,1,51085
+380,"Lancaster, SC",US,1,45057
+381,"Sullivan, TN",US,1,47163
+382,"Johnson, IN",US,3,47163
+383,"Howard, IN",US,1,18067
+384,"St. Joseph, IN",US,1,18141
+385,"Knox, NE",US,1,31107
+386,"Stark, OH",US,1,39151
+387,"Anoka, MN",US,1,27003
+388,"Olmsted, MN",US,1,27109
+389,"Summit, UT",US,1,49043
+390,"Fairfield, CT",US,2,09001
+391,"Litchfield, CT",US,1,09005
+392,"Orleans, LA",US,5,22071
+393,"Pennington, SD",US,1,46103
+394,"Beadle, SD",US,1,46005
+395,"Charles Mix, SD",US,1,46023
+396,"Davison, SD",US,1,46035
+397,"Minnehaha, SD",US,3,46099
+398,"Bon Homme, SD",US,1,46009
+399,"Socorro, NM",US,2,35053
+400,"Bernalillo, NM",US,1,35001
+401,"Oakland, MI",US,1,26125
+402,"Wayne, MI",US,1,26163
+403,"New Castle, DE",US,1,10003
