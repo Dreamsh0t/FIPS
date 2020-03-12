@@ -1,4 +1,4 @@
-,state,country,cases,
+,state,country,cases,fips_code
 213,"Kitsap, WA",US,2,53035
 214,"Solano, CA",US,3,06095
 215,"Santa Cruz, CA",US,2,06087
